@@ -35,10 +35,10 @@ This repo contains the following to reproduce a tidy data set:
 Once the R script has been run and the tidy dataset Human_Activity_Dataset.txt
 and its mean variable summary file, Summary_Human_Activity_Dataset, have been produced:
 From R, navigate to the directory containing the file, then type:
-### read.table("Human_Activity_Dataset.txt",header=T,sep = "\t",row.names=F)
+### read.table("Human_Activity_Dataset.txt",header=T,sep = "\t")
 
 To load the summary dataset:
-### read.table("Summary_Human_Activity_Dataset",header=T,sep = "\t",row.names=F) 
+### read.table("Human_Activity_Dataset.txt",header=T,sep = "\t") 
 
 ### Data Description 
 
