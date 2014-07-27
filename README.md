@@ -20,9 +20,9 @@ Emily W.R.
 Human Activity Dataset Repo
 ===========
 This repo contains the following to reproduce a tidy data set:
-1. An R script, run_analysis.R, to fully reproduce the tidy data set [from the raw data](https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip).
-1. A Codebook containing a description of the reproduced tidy data set, Codebook.md.
-1. A summary tidy data set containing the means of each variable by participant and activity, Summary_Human_Activity_Dataset.txt
+ 1. An R script, run_analysis.R, to fully reproduce the tidy data set [from the raw data](https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip)
+ 2. A Codebook containing a description of the reproduced tidy data set, Codebook.md.
+ 3. A summary tidy data set containing the means of each variable by participant and activity, Summary_Human_Activity_Dataset.txt
 
 ### Run_analysis.R should:
  * download an online zip file, 
@@ -35,10 +35,10 @@ This repo contains the following to reproduce a tidy data set:
 Once the R script has been run and the tidy dataset Human_Activity_Dataset.txt
 and its mean variable summary file, Summary_Human_Activity_Dataset, have been produced:
 From R, navigate to the directory containing the file, then type:
-read.table("Human_Activity_Dataset.txt",header=T,sep = "\t",row.names=F)
+### read.table("Human_Activity_Dataset.txt",header=T,sep = "\t",row.names=F)
 
 To load the summary dataset:
-read.table("Summary_Human_Activity_Dataset",header=T,sep = "\t",row.names=F) 
+### read.table("Summary_Human_Activity_Dataset",header=T,sep = "\t",row.names=F) 
 
 ### Data Description 
 
