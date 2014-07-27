@@ -1,5 +1,4 @@
-CODEBOOK FOR HUMAN ACTIVITY RECOGNITION USING 
-  SMARTPHONES DATASET 
+CODEBOOK FOR HUMAN ACTIVITY RECOGNITION USING SMARTPHONES DATASET 
 =========== 
 
 
@@ -82,7 +81,9 @@ This dataset is distributed AS-IS and no responsibility implied or
   its use or misuse. Any commercial use is prohibited. 
 
 ACTIVITY 
+
      Position:  1 
+
            Activity 
 
      Factor variable containing 6 levels
@@ -96,7 +97,9 @@ ACTIVITY
 
 
 SUBJECTID 
+
      Position:  2 
+
            SubjectID 
 
      Factor variable containing 30 levels
@@ -105,7 +108,9 @@ SUBJECTID
 
 
 MEAN.X.TIME.BODY.ACCELERATION 
+
      Position:  3 
+
            Mean X Time Body Acceleration 
 
      Numeric normalized variable (no units) in range [-1:1]
@@ -115,7 +120,9 @@ MEAN.X.TIME.BODY.ACCELERATION
 
 
 MEAN.Y.TIME.BODY.ACCELERATION 
+
      Position:  4 
+
            Mean Y Time Body Acceleration 
 
      Numeric normalized variable (no units) in range [-1:1]
@@ -125,7 +132,9 @@ MEAN.Y.TIME.BODY.ACCELERATION
 
 
 MEAN.Z.TIME.BODY.ACCELERATION 
+
      Position:  5 
+
            Mean Z Time Body Acceleration 
 
      Numeric normalized variable (no units) in range [-1:1]
@@ -135,7 +144,9 @@ MEAN.Z.TIME.BODY.ACCELERATION
 
 
 STD.DEV.OF.X.TIME.BODY.ACCELERATION 
+
      Position:  6 
+
            Standard Deviation of X Time Body Acceleration 
 
      Numeric normalized variable (no units) in range [-1:1]
@@ -145,7 +156,9 @@ STD.DEV.OF.X.TIME.BODY.ACCELERATION
 
 
 STD.DEV.OF.Y.TIME.BODY.ACCELERATION 
+
      Position:  7 
+
            Standard Deviation of Y Time Body Acceleration 
 
      Numeric normalized variable (no units) in range [-1:1]
@@ -155,7 +168,9 @@ STD.DEV.OF.Y.TIME.BODY.ACCELERATION
 
 
 STD.DEV.OF.Z.TIME.BODY.ACCELERATION 
+
      Position:  8 
+
            Standard Deviation of Z Time Body Acceleration 
 
      Numeric normalized variable (no units) in range [-1:1]
@@ -165,7 +180,9 @@ STD.DEV.OF.Z.TIME.BODY.ACCELERATION
 
 
 MEAN.X.TIME.GRAVITY.ACCELERATION 
+
      Position:  9 
+
            Mean X Time Gravity Acceleration 
 
      Numeric normalized variable (no units) in range [-1:1]
@@ -175,7 +192,9 @@ MEAN.X.TIME.GRAVITY.ACCELERATION
 
 
 MEAN.Y.TIME.GRAVITY.ACCELERATION 
+
      Position:  10 
+
            Mean Y Time Gravity Acceleration 
 
      Numeric normalized variable (no units) in range [-1:1]
@@ -185,7 +204,9 @@ MEAN.Y.TIME.GRAVITY.ACCELERATION
 
 
 MEAN.Z.TIME.GRAVITY.ACCELERATION 
+
      Position:  11 
+
            Mean Z Time Gravity Acceleration 
 
      Numeric normalized variable (no units) in range [-1:1]
@@ -195,7 +216,9 @@ MEAN.Z.TIME.GRAVITY.ACCELERATION
 
 
 STD.DEV.OF.X.TIME.GRAVITY.ACCELERATION 
+
      Position:  12 
+
            Standard Deviation of X Time Gravity Acceleration 
 
      Numeric normalized variable (no units) in range [-1:1]
@@ -205,7 +228,9 @@ STD.DEV.OF.X.TIME.GRAVITY.ACCELERATION
 
 
 STD.DEV.OF.Y.TIME.GRAVITY.ACCELERATION 
+
      Position:  13 
+
            Standard Deviation of Y Time Gravity Acceleration 
 
      Numeric normalized variable (no units) in range [-1:1]
@@ -215,7 +240,9 @@ STD.DEV.OF.Y.TIME.GRAVITY.ACCELERATION
 
 
 STD.DEV.OF.Z.TIME.GRAVITY.ACCELERATION 
+
      Position:  14 
+
            Standard Deviation of Z Time Gravity Acceleration 
 
      Numeric normalized variable (no units) in range [-1:1]
@@ -225,7 +252,9 @@ STD.DEV.OF.Z.TIME.GRAVITY.ACCELERATION
 
 
 MEAN.X.TIME.BODY.JERK.ACCELERATION 
+
      Position:  15 
+
            Mean X Time Body Jerk Acceleration 
 
      Numeric normalized variable (no units) in range [-1:1]
@@ -235,7 +264,9 @@ MEAN.X.TIME.BODY.JERK.ACCELERATION
 
 
 MEAN.Y.TIME.BODY.JERK.ACCELERATION 
+
      Position:  16 
+
            Mean Y Time Body Jerk Acceleration 
 
      Numeric normalized variable (no units) in range [-1:1]
@@ -245,7 +276,9 @@ MEAN.Y.TIME.BODY.JERK.ACCELERATION
 
 
 MEAN.Z.TIME.BODY.JERK.ACCELERATION 
+
      Position:  17 
+
            Mean Z Time Body Jerk Acceleration 
 
      Numeric normalized variable (no units) in range [-1:1]
@@ -255,7 +288,9 @@ MEAN.Z.TIME.BODY.JERK.ACCELERATION
 
 
 STD.DEV.OF.X.TIME.BODY.JERK.ACCELERATION 
+
      Position:  18 
+
            Standard Deviation of X Time Body Jerk Acceleration 
 
      Numeric normalized variable (no units) in range [-1:1]
@@ -265,7 +300,9 @@ STD.DEV.OF.X.TIME.BODY.JERK.ACCELERATION
 
 
 STD.DEV.OF.Y.TIME.BODY.JERK.ACCELERATION 
+
      Position:  19 
+
            Standard Deviation of Y Time Body Jerk Acceleration 
 
      Numeric normalized variable (no units) in range [-1:1]
@@ -275,7 +312,9 @@ STD.DEV.OF.Y.TIME.BODY.JERK.ACCELERATION
 
 
 STD.DEV.OF.Z.TIME.BODY.JERK.ACCELERATION 
+
      Position:  20 
+
            Standard Deviation of Z Time Body Jerk Acceleration 
 
      Numeric normalized variable (no units) in range [-1:1]
@@ -285,7 +324,9 @@ STD.DEV.OF.Z.TIME.BODY.JERK.ACCELERATION
 
 
 MEAN.X.TIME.BODY.GYRATION 
+
      Position:  21 
+
            Mean X Time Body Gyration 
 
      Numeric normalized variable (no units) in range [-1:1]
@@ -295,7 +336,9 @@ MEAN.X.TIME.BODY.GYRATION
 
 
 MEAN.Y.TIME.BODY.GYRATION 
+
      Position:  22 
+
            Mean Y Time Body Gyration 
 
      Numeric normalized variable (no units) in range [-1:1]
@@ -305,7 +348,9 @@ MEAN.Y.TIME.BODY.GYRATION
 
 
 MEAN.Z.TIME.BODY.GYRATION 
+
      Position:  23 
+
            Mean Z Time Body Gyration 
 
      Numeric normalized variable (no units) in range [-1:1]
@@ -315,7 +360,9 @@ MEAN.Z.TIME.BODY.GYRATION
 
 
 STD.DEV.OF.X.TIME.BODY.GYRATION 
+
      Position:  24 
+
            Standard Deviation of X Time Body Gyration 
 
      Numeric normalized variable (no units) in range [-1:1]
@@ -325,7 +372,9 @@ STD.DEV.OF.X.TIME.BODY.GYRATION
 
 
 STD.DEV.OF.Y.TIME.BODY.GYRATION 
+
      Position:  25 
+
            Standard Deviation of Y Time Body Gyration 
 
      Numeric normalized variable (no units) in range [-1:1]
@@ -335,7 +384,9 @@ STD.DEV.OF.Y.TIME.BODY.GYRATION
 
 
 STD.DEV.OF.Z.TIME.BODY.GYRATION 
+
      Position:  26 
+
            Standard Deviation of Z Time Body Gyration 
 
      Numeric normalized variable (no units) in range [-1:1]
@@ -345,7 +396,9 @@ STD.DEV.OF.Z.TIME.BODY.GYRATION
 
 
 MEAN.X.TIME.BODY.JERK.GYRATION 
+
      Position:  27 
+
            Mean X Time Body Jerk Gyration 
 
      Numeric normalized variable (no units) in range [-1:1]
@@ -355,7 +408,9 @@ MEAN.X.TIME.BODY.JERK.GYRATION
 
 
 MEAN.Y.TIME.BODY.JERK.GYRATION 
+
      Position:  28 
+
            Mean Y Time Body Jerk Gyration 
 
      Numeric normalized variable (no units) in range [-1:1]
@@ -365,7 +420,9 @@ MEAN.Y.TIME.BODY.JERK.GYRATION
 
 
 MEAN.Z.TIME.BODY.JERK.GYRATION 
+
      Position:  29 
+
            Mean Z Time Body Jerk Gyration 
 
      Numeric normalized variable (no units) in range [-1:1]
@@ -375,7 +432,9 @@ MEAN.Z.TIME.BODY.JERK.GYRATION
 
 
 STD.DEV.OF.X.TIME.BODY.JERK.GYRATION 
+
      Position:  30 
+
            Standard Deviation of X Time Body Jerk Gyration 
 
      Numeric normalized variable (no units) in range [-1:1]
@@ -385,7 +444,9 @@ STD.DEV.OF.X.TIME.BODY.JERK.GYRATION
 
 
 STD.DEV.OF.Y.TIME.BODY.JERK.GYRATION 
+
      Position:  31 
+
            Standard Deviation of Y Time Body Jerk Gyration 
 
      Numeric normalized variable (no units) in range [-1:1]
@@ -395,7 +456,9 @@ STD.DEV.OF.Y.TIME.BODY.JERK.GYRATION
 
 
 STD.DEV.OF.Z.TIME.BODY.JERK.GYRATION 
+
      Position:  32 
+
            Standard Deviation of Z Time Body Jerk Gyration 
 
      Numeric normalized variable (no units) in range [-1:1]
@@ -405,7 +468,9 @@ STD.DEV.OF.Z.TIME.BODY.JERK.GYRATION
 
 
 MEAN.MAGNITUDE.OF.TIME.BODY.ACCELERATION 
+
      Position:  33 
+
            Mean Magnitude of Time Body Acceleration 
 
      Numeric normalized variable (no units) in range [-1:1]
@@ -415,7 +480,9 @@ MEAN.MAGNITUDE.OF.TIME.BODY.ACCELERATION
 
 
 STD.DEV.OF.MAGNITUDE.OF.TIME.BODY.ACCELERATION 
+
      Position:  34 
+
            Standard Deviation of Magnitude of Time Body Acceleration 
 
      Numeric normalized variable (no units) in range [-1:1]
@@ -425,7 +492,9 @@ STD.DEV.OF.MAGNITUDE.OF.TIME.BODY.ACCELERATION
 
 
 MEAN.MAGNITUDE.OF.TIME.GRAVITY.ACCELERATION 
+
      Position:  35 
+
            Mean Magnitude of Time Gravity Acceleration 
 
      Numeric normalized variable (no units) in range [-1:1]
@@ -435,7 +504,9 @@ MEAN.MAGNITUDE.OF.TIME.GRAVITY.ACCELERATION
 
 
 STD.DEV.OF.MAGNITUDE.OF.TIME.GRAVITY.ACCELERATION 
+
      Position:  36 
+
            Standard Deviation of Magnitude of Time Gravity Acceleration 
 
      Numeric normalized variable (no units) in range [-1:1]
@@ -445,7 +516,9 @@ STD.DEV.OF.MAGNITUDE.OF.TIME.GRAVITY.ACCELERATION
 
 
 MEAN.MAGNITUDE.OF.TIME.BODY.JERK.ACCELERATION 
+
      Position:  37 
+
            Mean Magnitude of Time Body Jerk Acceleration 
 
      Numeric normalized variable (no units) in range [-1:1]
@@ -455,7 +528,9 @@ MEAN.MAGNITUDE.OF.TIME.BODY.JERK.ACCELERATION
 
 
 STD.DEV.OF.MAGNITUDE.OF.TIME.BODY.JERK.ACCELERATION 
+
      Position:  38 
+
            Standard Deviation of Magnitude of Time Body Jerk Acceleration 
 
      Numeric normalized variable (no units) in range [-1:1]
@@ -465,7 +540,9 @@ STD.DEV.OF.MAGNITUDE.OF.TIME.BODY.JERK.ACCELERATION
 
 
 MEAN.MAGNITUDE.OF.TIME.BODY.GYRATION 
+
      Position:  39 
+
            Mean Magnitude of Time Body Gyration 
 
      Numeric normalized variable (no units) in range [-1:1]
@@ -475,7 +552,9 @@ MEAN.MAGNITUDE.OF.TIME.BODY.GYRATION
 
 
 STD.DEV.OF.MAGNITUDE.OF.TIME.BODY.GYRATION 
+
      Position:  40 
+
            Standard Deviation of Magnitude of Time Body Gyration 
 
      Numeric normalized variable (no units) in range [-1:1]
@@ -485,7 +564,9 @@ STD.DEV.OF.MAGNITUDE.OF.TIME.BODY.GYRATION
 
 
 MEAN.MAGNITUDE.OF.TIME.BODY.JERK.GYRATION 
+
      Position:  41 
+
            Mean Magnitude of Time Body Jerk Gyration 
 
      Numeric normalized variable (no units) in range [-1:1]
@@ -495,7 +576,9 @@ MEAN.MAGNITUDE.OF.TIME.BODY.JERK.GYRATION
 
 
 STD.DEV.OF.MAGNITUDE.OF.TIME.BODY.JERK.GYRATION 
+
      Position:  42 
+
            Standard Deviation of Magnitude of Time Body Jerk Gyration 
 
      Numeric normalized variable (no units) in range [-1:1]
@@ -505,7 +588,9 @@ STD.DEV.OF.MAGNITUDE.OF.TIME.BODY.JERK.GYRATION
 
 
 MEAN.X.FREQ.BODY.ACCELERATION 
+
      Position:  43 
+
            Mean X Frequency Body Acceleration 
 
      Numeric normalized variable (no units) in range [-1:1]
@@ -515,7 +600,9 @@ MEAN.X.FREQ.BODY.ACCELERATION
 
 
 MEAN.Y.FREQ.BODY.ACCELERATION 
+
      Position:  44 
+
            Mean Y Frequency Body Acceleration 
 
      Numeric normalized variable (no units) in range [-1:1]
@@ -525,7 +612,9 @@ MEAN.Y.FREQ.BODY.ACCELERATION
 
 
 MEAN.Z.FREQ.BODY.ACCELERATION 
+
      Position:  45 
+
            Mean Z Frequency Body Acceleration 
 
      Numeric normalized variable (no units) in range [-1:1]
@@ -535,7 +624,9 @@ MEAN.Z.FREQ.BODY.ACCELERATION
 
 
 STD.DEV.OF.X.FREQ.BODY.ACCELERATION 
+
      Position:  46 
+
            Standard Deviation of X Frequency Body Acceleration 
 
      Numeric normalized variable (no units) in range [-1:1]
@@ -545,7 +636,9 @@ STD.DEV.OF.X.FREQ.BODY.ACCELERATION
 
 
 STD.DEV.OF.Y.FREQ.BODY.ACCELERATION 
+
      Position:  47 
+
            Standard Deviation of Y Frequency Body Acceleration 
 
      Numeric normalized variable (no units) in range [-1:1]
@@ -555,7 +648,9 @@ STD.DEV.OF.Y.FREQ.BODY.ACCELERATION
 
 
 STD.DEV.OF.Z.FREQ.BODY.ACCELERATION 
+
      Position:  48 
+
            Standard Deviation of Z Frequency Body Acceleration 
 
      Numeric normalized variable (no units) in range [-1:1]
@@ -565,7 +660,9 @@ STD.DEV.OF.Z.FREQ.BODY.ACCELERATION
 
 
 MEAN.X.FREQ.BODY.JERK.ACCELERATION 
+
      Position:  49 
+
            Mean X Frequency Body Jerk Acceleration 
 
      Numeric normalized variable (no units) in range [-1:1]
@@ -575,7 +672,9 @@ MEAN.X.FREQ.BODY.JERK.ACCELERATION
 
 
 MEAN.Y.FREQ.BODY.JERK.ACCELERATION 
+
      Position:  50 
+
            Mean Y Frequency Body Jerk Acceleration 
 
      Numeric normalized variable (no units) in range [-1:1]
@@ -585,7 +684,9 @@ MEAN.Y.FREQ.BODY.JERK.ACCELERATION
 
 
 MEAN.Z.FREQ.BODY.JERK.ACCELERATION 
+
      Position:  51 
+
            Mean Z Frequency Body Jerk Acceleration 
 
      Numeric normalized variable (no units) in range [-1:1]
@@ -595,7 +696,9 @@ MEAN.Z.FREQ.BODY.JERK.ACCELERATION
 
 
 STD.DEV.OF.X.FREQ.BODY.JERK.ACCELERATION 
+
      Position:  52 
+
            Standard Deviation of X Frequency Body Jerk Acceleration 
 
      Numeric normalized variable (no units) in range [-1:1]
@@ -605,7 +708,9 @@ STD.DEV.OF.X.FREQ.BODY.JERK.ACCELERATION
 
 
 STD.DEV.OF.Y.FREQ.BODY.JERK.ACCELERATION 
+
      Position:  53 
+
            Standard Deviation of Y Frequency Body Jerk Acceleration 
 
      Numeric normalized variable (no units) in range [-1:1]
@@ -615,7 +720,9 @@ STD.DEV.OF.Y.FREQ.BODY.JERK.ACCELERATION
 
 
 STD.DEV.OF.Z.FREQ.BODY.JERK.ACCELERATION 
+
      Position:  54 
+
            Standard Deviation of Z Frequency Body Jerk Acceleration 
 
      Numeric normalized variable (no units) in range [-1:1]
@@ -625,7 +732,9 @@ STD.DEV.OF.Z.FREQ.BODY.JERK.ACCELERATION
 
 
 MEAN.X.FREQ.BODY.GYRATION 
+
      Position:  55 
+
            Mean X Frequency Body Gyration 
 
      Numeric normalized variable (no units) in range [-1:1]
@@ -635,7 +744,9 @@ MEAN.X.FREQ.BODY.GYRATION
 
 
 MEAN.Y.FREQ.BODY.GYRATION 
+
      Position:  56 
+
            Mean Y Frequency Body Gyration 
 
      Numeric normalized variable (no units) in range [-1:1]
@@ -645,7 +756,9 @@ MEAN.Y.FREQ.BODY.GYRATION
 
 
 MEAN.Z.FREQ.BODY.GYRATION 
+
      Position:  57 
+
            Mean Z Frequency Body Gyration 
 
      Numeric normalized variable (no units) in range [-1:1]
@@ -655,7 +768,9 @@ MEAN.Z.FREQ.BODY.GYRATION
 
 
 STD.DEV.OF.X.FREQ.BODY.GYRATION 
+
      Position:  58 
+
            Standard Deviation of X Frequency Body Gyration 
 
      Numeric normalized variable (no units) in range [-1:1]
@@ -665,7 +780,9 @@ STD.DEV.OF.X.FREQ.BODY.GYRATION
 
 
 STD.DEV.OF.Y.FREQ.BODY.GYRATION 
+
      Position:  59 
+
            Standard Deviation of Y Frequency Body Gyration 
 
      Numeric normalized variable (no units) in range [-1:1]
@@ -675,7 +792,9 @@ STD.DEV.OF.Y.FREQ.BODY.GYRATION
 
 
 STD.DEV.OF.Z.FREQ.BODY.GYRATION 
+
      Position:  60 
+
            Standard Deviation of Z Frequency Body Gyration 
 
      Numeric normalized variable (no units) in range [-1:1]
@@ -685,7 +804,9 @@ STD.DEV.OF.Z.FREQ.BODY.GYRATION
 
 
 MEAN.MAGNITUDE.OF.FREQ.BODY.ACCELERATION 
+
      Position:  61 
+
            Mean Magnitude of Frequency Body Acceleration 
 
      Numeric normalized variable (no units) in range [-1:1]
@@ -695,7 +816,9 @@ MEAN.MAGNITUDE.OF.FREQ.BODY.ACCELERATION
 
 
 STD.DEV.OF.MAGNITUDE.OF.FREQ.BODY.ACCELERATION 
+
      Position:  62 
+
            Standard Deviation of Magnitude of Frequency Body Acceleration 
 
      Numeric normalized variable (no units) in range [-1:1]
@@ -705,7 +828,9 @@ STD.DEV.OF.MAGNITUDE.OF.FREQ.BODY.ACCELERATION
 
 
 MEAN.MAGNITUDE.OF.FREQ.BODY.JERK.ACCELERATION 
+
      Position:  63 
+
            Mean Magnitude of Frequency Body Jerk Acceleration 
 
      Numeric normalized variable (no units) in range [-1:1]
@@ -715,7 +840,9 @@ MEAN.MAGNITUDE.OF.FREQ.BODY.JERK.ACCELERATION
 
 
 STD.DEV.OF.MAGNITUDE.OF.FREQ.BODY.JERK.ACCELERATION 
+
      Position:  64 
+
            Standard Deviation of Magnitude of Frequency Body Jerk Acceleration 
 
      Numeric normalized variable (no units) in range [-1:1]
@@ -725,7 +852,9 @@ STD.DEV.OF.MAGNITUDE.OF.FREQ.BODY.JERK.ACCELERATION
 
 
 MEAN.MAGNITUDE.OF.FREQ.BODY.GYRATION 
+
      Position:  65 
+
            Mean Magnitude of Frequency Body Gyration 
 
      Numeric normalized variable (no units) in range [-1:1]
@@ -735,7 +864,9 @@ MEAN.MAGNITUDE.OF.FREQ.BODY.GYRATION
 
 
 STD.DEV.OF.MAGNITUDE.OF.FREQ.BODY.GYRATION 
+
      Position:  66 
+
            Standard Deviation of Magnitude of Frequency Body Gyration 
 
      Numeric normalized variable (no units) in range [-1:1]
@@ -745,7 +876,9 @@ STD.DEV.OF.MAGNITUDE.OF.FREQ.BODY.GYRATION
 
 
 MEAN.MAGNITUDE.OF.FREQ.BODY.JERK.GYRATION 
+
      Position:  67 
+
            Mean Magnitude of Frequency Body Jerk Gyration 
 
      Numeric normalized variable (no units) in range [-1:1]
@@ -755,7 +888,9 @@ MEAN.MAGNITUDE.OF.FREQ.BODY.JERK.GYRATION
 
 
 STD.DEV.OF.MAGNITUDE.OF.FREQ.BODY.JERK.GYRATION 
+
      Position:  68 
+
            Standard Deviation of Magnitude of Frequency Body Jerk Gyration 
 
      Numeric normalized variable (no units) in range [-1:1]
