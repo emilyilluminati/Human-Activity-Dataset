@@ -1,10 +1,10 @@
-### Human Activity Recognition Using Smartphones Dataset
+Human Activity Recognition Using Smartphones Dataset
 ===========
-## Version 1.2
+### Version 1.2
 
 # Authors
 ===========
-# Original Raw Dataset:
+### Original Raw Dataset:
 Jorge L. Reyes-Ortiz, Davide Anguita, Alessandro Ghio, Luca Oneto.
 Smartlab - Non Linear Complex Systems Laboratory
 DITEN - Università degli Studi di Genova.
@@ -12,26 +12,26 @@ Via Opera Pia 11A, I-16145, Genoa, Italy.
 activityrecognition@smartlab.ws
 www.smartlab.ws
 
-# Contributor: 
+### Contributor: 
 Emily W.R.
 
-===========
+
 
 Human Activity Dataset Repo
 ===========
 This repo contains the following to reproduce a tidy data set:
 1. An R script, run_analysis.R, to fully reproduce the tidy data set [from the raw data](https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip).
-2. A Codebook containing a description of the reproduced tidy data set, Codebook.md.
-3. A summary tidy data set containing the means of each variable by participant and activity, Summary_Human_Activity_Dataset.txt
+1. A Codebook containing a description of the reproduced tidy data set, Codebook.md.
+1. A summary tidy data set containing the means of each variable by participant and activity, Summary_Human_Activity_Dataset.txt
 
 ### Run_analysis.R should:
--download an online zip file, 
--install and load (if not available) the R package reshape2
--output the tidy data set described in Codebook.md, Human_Activity_Dataset.txt
--ouput the mean values for each variable by participant and activity, Summary_Human_Activity_Dataset.txt
+ * download an online zip file, 
+ * install and load (if not available) the R package reshape2
+ * output the tidy data set described in Codebook.md, Human_Activity_Dataset.txt
+ * ouput the mean values for each variable by participant and activity, Summary_Human_Activity_Dataset.txt
 
-Loading the Tidy Dataset
-=========== 
+### Loading the Tidy Dataset
+
 Once the R script has been run and the tidy dataset Human_Activity_Dataset.txt
 and its mean variable summary file, Summary_Human_Activity_Dataset, have been produced:
 From R, navigate to the directory containing the file, then type:
@@ -40,8 +40,8 @@ read.table("Human_Activity_Dataset.txt",header=T,sep = "\t",row.names=F)
 To load the summary dataset:
 read.table("Summary_Human_Activity_Dataset",header=T,sep = "\t",row.names=F) 
 
-Data Description 
-=========== 
+### Data Description 
+
 This dataset was compiled from raw experimental data from 
   The Non Linear Complex Systems Laboratory at the Università degli 
   Studi di Genova in Genoa, Italy. The experiments were carried out 
@@ -59,8 +59,8 @@ This tidy dataset contains the means and standard deviations of
   three dimensions, X, Y or Z, this will be acknowledged in the variable
   name and description.  
 
-Technical Data Collection Information 
-=========== 
+### Technical Data Collection Information 
+
 The measurements in this datasetcome from the accelerometer and 
   gyroscope 3-axial raw signals; the variable names contain the word 
   Acceleration or Gyration to signal their source. These time variables 
