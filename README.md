@@ -37,8 +37,8 @@ and its mean variable summary file, Summary_Human_Activity_Dataset, have been pr
 From R, navigate to the directory containing the file, then type:
 ### read.table("Human_Activity_Dataset.txt",header=T,sep = "\t")
 
-To load the summary dataset:
-### read.table("Human_Activity_Dataset.txt",header=T,sep = "\t") 
+To load the summary dataset, use the same procedure:
+### read.table("Summary_Human_Activity_Dataset.txt",header=T,sep = "\t") 
 
 ### Data Description 
 
